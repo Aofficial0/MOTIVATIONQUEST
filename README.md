@@ -9,7 +9,7 @@ This repository built with:
   <li>JavaScript</li>
   <li>Blender</li>
 </ul>
-no dependencies or frameworkjust 
+no dependencies or framework
 
 <h1>IT WORKS BEST ON PC / TABLET <H1>
   
