@@ -12,6 +12,7 @@ This repository built with:
 no dependencies or framework
 
 <h1>IT WORKS BEST ON PC / TABLET <H1>
+  (not responsive yet but couldn't wait to #share  xD )
   
 This repository shows  my 3D avatar telling the story of staring strong and facing drops and getting back on the feed 
   
